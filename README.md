@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NicolasKojima
-- 👀 I’m am currently learning HTML and PHP through an internship
+- 👀 Currently interested in and learning about full stack web development
+      - Specifically Security, Authentication & Databases
 - 📫 How to reach me: 
 -   mobile: 090-6657-5963
 -   Email: nicolas.kojima@gmail.com
