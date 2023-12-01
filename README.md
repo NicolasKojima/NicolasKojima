@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicolasKojima
-- 👀 Currently interested in and am learning about full stack development and cyber security
+- 👀 Currently interested in and am learning about full stack development and cybersecurity
 - 📫 How to reach me: 
 -   mobile: 090-6657-5963
 -   Email: nicolas.kojima@gmail.com
