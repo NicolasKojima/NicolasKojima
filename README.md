@@ -12,6 +12,25 @@
 
 ---
 
+### 🔥: My Stats :
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=NicolasKojima&theme=dark&background=000000" alt="GitHub Streak" style="display: inline-block; width: 30%;">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKojima&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="display: inline-block; width: 30%;">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NicolasKojima&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" style="display: inline-block; width: 30%;">
+  </a>
+</p>
+
+
+
+
+---
+
 ### 🛠️ Languages and Tools :
   <div class="icons">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" margin-right="200" />&nbsp;
@@ -35,10 +54,6 @@
 <div>
 
 ---
-
-### 🔥: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasKojima&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKojima&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
